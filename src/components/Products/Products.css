@@ -1,0 +1,27 @@
+.mainContainer {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .productContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .productCard {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .productCard img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
